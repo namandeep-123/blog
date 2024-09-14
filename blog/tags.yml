@@ -1,0 +1,14 @@
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+developer:
+  label: developer
+  permalink: /developer
+  description: Developer tag description
+
+pinned:
+  label: pinned
+  permalink: /pinned
+  description: Pinned tag description
