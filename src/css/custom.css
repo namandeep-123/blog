@@ -15,6 +15,16 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-background-color: #f4f4f4;
+}
+body {
+  background-color: var(--ifm-background-color);
+}
+.navbar {
+  background-color: #f4f4f4; /* Set your desired color */
+}
+html[data-theme="dark"] .navbar {
+  background-color: #242526; /* Dark mode background */
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
