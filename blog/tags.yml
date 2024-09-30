@@ -12,3 +12,8 @@ pinned:
   label: pinned
   permalink: /pinned
   description: Pinned tag description
+
+docker:
+  label: docker
+  permalink: /docker
+  description: docker tag description
