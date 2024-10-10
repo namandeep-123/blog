@@ -1,6 +1,6 @@
 ---
-slug: Crafting Container By Hand
-title: Crafting Container By Hand
+slug: Unpacking Containers
+title: Unpacking Containers
 authors: [Naman]
 tags: [docker]
 ---
